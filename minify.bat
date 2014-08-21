@@ -1,0 +1,1 @@
+node ./js/r.js -o cssIn=./css/hackstrap.css out=./css/hackstrap.min.css optimizeCss=default
